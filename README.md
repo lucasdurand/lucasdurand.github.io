@@ -1,1 +1,2 @@
-# lucasdurand.github.io
+# lucasdurand
+A little personal resume site
